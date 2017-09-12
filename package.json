@@ -1,0 +1,22 @@
+{
+  "name": "roadrampage",
+  "version": "0.1.0",
+  "description": "Spy Hunter like game, made with pixi.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spy",
+    "Hunter",
+    "javascript",
+    "game",
+    "learning",
+    "pixi.js"
+  ],
+  "author": "Olivier Pelletier",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^4.5.5"
+  }
+}
